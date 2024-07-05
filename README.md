@@ -4,8 +4,8 @@ A new Flutter project.
 
 # CREDENCIALES PARA EL INICIO DE SESION
 
-Username: juan@gmail.com
-Password: juan123
+- Username: juan@gmail.com
+- Password: juan123
 
 ## Funcionamiento de la aplicacion
 
